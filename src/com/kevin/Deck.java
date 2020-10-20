@@ -1,7 +1,7 @@
 package com.kevin;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.HashMap;//recive una llave y un valor
+import java.util.HashMap;
 import java.util.Map;
 
 public class Deck {
